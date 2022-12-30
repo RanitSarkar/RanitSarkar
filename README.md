@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RanitSarkar
-- 👀 I’m interested in Python coding and creating realistic projects.
+- 👀 I’m interested in Python coding , full stack Web Devlopment, and creating realistic projects.
 - 🌱 I’m currently a Bachelor of Technology Agriculture Student.
 - 💞️ I’m looking to collaborate on any projects where i get to learn something.
 - 📫 contact: mail: ranitsarkar71@gmail.com 
