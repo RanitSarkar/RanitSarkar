@@ -31,10 +31,6 @@
 <table>
     <tr>
       <td>
-        <h3 align="left">Support:</h3>
-        <p><a href="https://www.buymeacoffee.com/paypal.me/RanitSa"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paypal.me/RanitSa" /></a></p><br><br>
-      </td>
-      <td>
         <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranitsarkar&show_icons=true&locale=en&layout=compact" alt="ranitsarkar" />   </p><br>
       </td>
       <td>
@@ -48,6 +44,9 @@
  </table>
  
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<h4 align="left">Support:</h4>
+<p><a href="https://www.buymeacoffee.com/paypal.me/RanitSa"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paypal.me/RanitSa" /></a></p><br><br>
+      
   <!---
 RanitSarkar/RanitSarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
